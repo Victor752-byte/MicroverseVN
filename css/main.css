@@ -4,6 +4,12 @@ body{
     margin:0;
     background-color: #f4f4f4;
 }
+/*global constrains*/
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
 /*header start*/
 header ul{
     margin:0;
