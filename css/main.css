@@ -110,3 +110,18 @@ margin-top: 20px;
     border-color: none;
 }
 /* end of news letter */
+/* NewMembers Area : boxes*/
+#newMembers{
+    margin-top: 20px;
+}
+
+#newMembers .box{
+    float:left;
+    text-align: center;
+    width:30%;
+    padding:10px;
+}
+
+#newMembers .box img{
+    width: 250px;
+}
