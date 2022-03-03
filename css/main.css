@@ -109,4 +109,10 @@ margin-top: 20px;
     width: 250px;
     border-color: none;
 }
+
 /* end of news letter */
+.btn_submit{
+    height: 36px;
+    background: #ffd540;
+    border: none;
+}
