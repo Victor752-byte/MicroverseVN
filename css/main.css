@@ -109,6 +109,11 @@ margin-top: 20px;
     width: 250px;
     border-color: none;
 }
+.btn_submit{
+    height: 36px;
+    background: #ffd540;
+    border: none;
+}
 /* NewMembers Area : boxes*/
 #newMembers{
     margin-top: 20px;
