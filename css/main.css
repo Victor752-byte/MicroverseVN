@@ -109,4 +109,23 @@ margin-top: 20px;
     width: 250px;
     border-color: none;
 }
-/* end of news letter */
+.btn_submit{
+    height: 36px;
+    background: #ffd540;
+    border: none;
+}
+/* NewMembers Area : boxes*/
+#newMembers{
+    margin-top: 20px;
+}
+
+#newMembers .box{
+    float:left;
+    text-align: center;
+    width:30%;
+    padding:10px;
+}
+
+#newMembers .box img{
+    width: 250px;
+}
